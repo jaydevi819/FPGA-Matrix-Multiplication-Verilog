@@ -49,8 +49,6 @@ This project implements a parameterized **N × N Matrix Multiplication Accelerat
 
 ## Repository Structure
 
-```
-
 FPGA-Matrix-Multiplication-Verilog
 │
 ├── mac1.v                    # Verilog source file
