@@ -50,13 +50,16 @@ This project implements a parameterized **N × N Matrix Multiplication Accelerat
 ## Repository Structure
 
 ```
+
 FPGA-Matrix-Multiplication-Verilog
 │
-├── mac1.v/          # Verilog source files
-├── RTL,TTL,WaveForms/       # RTL viewer, waveforms
-├── fpgareport.pdf/       # Project report
+├── mac1.v                    # Verilog source file
+├── RTL.png                   # RTL Viewer
+├── TTL.png                   # Technology Map
+├── Waveforms.png             # ModelSim simulation
+├── Block_Diagram.png         # Block diagram
+├── fpgareport.pdf           # Project report
 └── README.md
-```
 
 ---
 
