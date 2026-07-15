@@ -54,9 +54,9 @@ This project implements a parameterized **N × N Matrix Multiplication Accelerat
 FPGA-Matrix-Multiplication-Verilog
 │
 ├── mac1.v                    # Verilog source file
-├── RTL.png                   # RTL Viewer
-├── TTL.png                   # Technology Map
-├── Waveforms.png             # ModelSim simulation
+├── RTL.jpg                  # RTL Viewer
+├── TTL.jpg                  # Technology Map
+├── Waveforms            # ModelSim simulation
 ├── Block_Diagram.png         # Block diagram
 ├── fpgareport.pdf           # Project report
 └── README.md
