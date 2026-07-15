@@ -56,8 +56,8 @@ FPGA-Matrix-Multiplication-Verilog
 ├── mac1.v                    # Verilog source file
 ├── RTL.jpg                  # RTL Viewer
 ├── TTL.jpg                  # Technology Map
-├── Waveforms                # ModelSim simulation
-├── Block_Diagram            # Block diagram
+├── Waveforms.bmp            # ModelSim simulation
+├── Block_Diagram.jpeg       # Block diagram
 ├── fpgareport.pdf           # Project report
 └── README.md
 
